@@ -1,0 +1,59 @@
+Here are the algorithms for the given problem statements:
+
+1. **Area of a Circle:**
+   - Accept the radius of the circle from the user.
+   - Calculate the area using the formula: area = π * radius * radius.
+   - Display the calculated area.
+
+2. **Maximum of Two Numbers:**
+   - Accept two numbers from the user.
+   - Compare the two numbers.
+   - Display the greater number as the maximum.
+
+3. **Odd or Even:**
+   - Accept a number from the user.
+   - Check if the number is divisible by 2.
+   - If it is divisible by 2, display "Even", else display "Odd".
+
+4. **Positive or Negative:**
+   - Accept a number from the user.
+   - Check if the number is greater than or equal to 0.
+   - If it is greater than or equal to 0, display "Positive", else display "Negative".
+
+5. **Issuing of License:**
+   - Accept the age from the user.
+   - Check if the age is less than 18.
+   - If the age is less than 18, display "No license", else display "Issue license".
+
+6. **Multiples of 5 Less than 100:**
+   - Initialize a variable to store multiples of 5.
+   - Loop from 1 to 100.
+   - Check if the current number is a multiple of 5.
+   - If it is, display the number.
+
+7. **Sum of Even Numbers from 1 to 20:**
+   - Initialize a variable to store the sum.
+   - Loop from 1 to 20.
+   - Check if the current number is even.
+   - If it is, add it to the sum.
+   - Display the sum.
+
+8. **Factorial of a Number:**
+   - Accept a number from the user.
+   - Initialize a variable to store the factorial.
+   - Loop from 1 to the number.
+   - Multiply each number with the factorial variable.
+   - Display the factorial.
+
+9. **Prime Number:**
+   - Accept a number from the user.
+   - Loop from 2 to half of the number.
+   - Check if the number is divisible by any number in the loop.
+   - If it is, display "Not a prime number", else display "Prime number".
+
+10. **Sum of Digits of a Number:**
+    - Accept a number from the user.
+    - Initialize a variable to store the sum.
+    - Extract each digit of the number using modulo 10 and add it to the sum.
+    - Repeat the process until the number becomes 0.
+    - Display the sum.
