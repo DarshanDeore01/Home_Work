@@ -2,9 +2,6 @@
 // the month in words.For example, if date is entered as 23/07/2009 then display the message as - July has 31 days.
 // Your program should take care of leap years. 
 
-
-
-
 #include <stdio.h>
 
 int main() {
